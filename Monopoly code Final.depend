@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1641813627 source:c:\users\user\desktop\ece paris\programmation\projet info\test 1er programme projet info\projet\code final projet\version final\monopoly version final\monopoly code final\main.c
+	"declarations.h"
+
+1641763203 c:\users\user\desktop\ece paris\programmation\projet info\test 1er programme projet info\projet\code final projet\version final\monopoly version final\monopoly code final\declarations.h
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<Time.h>
+
+1651675794 source:c:\users\user\desktop\ece paris\programmation\projet info semestre 1\test 1er programme projet info\projet\code final projet\version final\monopoly version final\monopoly code final\main.c
+	"declarations.h"
+
+1651670850 c:\users\user\desktop\ece paris\programmation\projet info semestre 1\test 1er programme projet info\projet\code final projet\version final\monopoly version final\monopoly code final\declarations.h
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+
+1691070568 source:c:\users\alexandre\desktop\ece paris année 2021-2022\programmation\projet info semestre 1\test 1er programme projet info\projet\code final projet\version final\monopoly version final\monopoly code final\main.c
+	"declarations.h"
+
+1651670852 c:\users\alexandre\desktop\ece paris année 2021-2022\programmation\projet info semestre 1\test 1er programme projet info\projet\code final projet\version final\monopoly version final\monopoly code final\declarations.h
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+
